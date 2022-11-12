@@ -1,0 +1,195 @@
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe.config
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.pdb
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csprojResolveAssemblyReference.cache
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Properties.Resources.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.GenerateResource.Cache
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.exe
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.pdb
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Language.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Sinhala_Select.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaCut.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishSelect.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaMerge.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishCut.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishMerge.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilCut.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilMerge.resources
+C:\Users\MORIN\Desktop\VP Project\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilSelect.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe.config
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.exe
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.pdb
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.pdb
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Interop.TimelineAxLib.dll
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\AxInterop.TimelineAxLib.dll
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Interop.TimelineAxLib.dll
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\AxInterop.TimelineAxLib.dll
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishCut.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishSelect.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Language.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Properties.Resources.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaCut.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaMerge.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Sinhala_Select.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilCut.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilMerge.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilSelect.resources
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishMerge.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe.config
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Interop.TimelineAxLib.dll
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\AxInterop.TimelineAxLib.dll
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.ResolveComReference.cache
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.exe
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.pdb
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.pdb
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Interop.TimelineAxLib.dll
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\AxInterop.TimelineAxLib.dll
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csprojResolveAssemblyReference.cache
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishCut.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishMerge.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishSelect.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Language.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Properties.Resources.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaCut.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaMerge.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Sinhala_Select.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilCut.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilMerge.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilSelect.resources
+D:\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.GenerateResource.Cache
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe.config
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Interop.TimelineAxLib.dll
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\AxInterop.TimelineAxLib.dll
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.ResolveComReference.cache
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.exe
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.pdb
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.pdb
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Interop.TimelineAxLib.dll
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\AxInterop.TimelineAxLib.dll
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csprojResolveAssemblyReference.cache
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishCut.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishMerge.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishSelect.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Language.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Properties.Resources.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaCut.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaMerge.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Sinhala_Select.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilCut.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilMerge.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilSelect.resources
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.GenerateResource.Cache
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Group 7\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe.config
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Interop.TimelineAxLib.dll
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\AxInterop.TimelineAxLib.dll
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.ResolveComReference.cache
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.exe
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.pdb
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.pdb
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Interop.TimelineAxLib.dll
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\AxInterop.TimelineAxLib.dll
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csprojResolveAssemblyReference.cache
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishCut.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishMerge.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishSelect.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Language.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Properties.Resources.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaCut.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaMerge.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Sinhala_Select.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilCut.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilMerge.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilSelect.resources
+D:\Group 7 - Copy all\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.GenerateResource.Cache
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe.config
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Interop.TimelineAxLib.dll
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\AxInterop.TimelineAxLib.dll
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.ResolveComReference.cache
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.exe
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.pdb
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.pdb
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Interop.TimelineAxLib.dll
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\AxInterop.TimelineAxLib.dll
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csprojResolveAssemblyReference.cache
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishCut.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishMerge.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishSelect.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Language.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Properties.Resources.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaCut.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaMerge.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Sinhala_Select.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilCut.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilMerge.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilSelect.resources
+D:\Group 7 - Final\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.GenerateResource.Cache
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe.config
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Interop.TimelineAxLib.dll
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\AxInterop.TimelineAxLib.dll
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.ResolveComReference.cache
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.exe
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.pdb
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.pdb
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Interop.TimelineAxLib.dll
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\AxInterop.TimelineAxLib.dll
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csprojResolveAssemblyReference.cache
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishCut.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishMerge.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishSelect.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Language.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Properties.Resources.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaCut.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaMerge.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Sinhala_Select.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilCut.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilMerge.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilSelect.resources
+D:\Group 7 - Final\Visual Studio\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.GenerateResource.Cache
+D:\Group 7 - Final\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe.config
+D:\Group 7 - Final\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Interop.TimelineAxLib.dll
+D:\Group 7 - Final\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\AxInterop.TimelineAxLib.dll
+D:\Group 7 - Final\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.ResolveComReference.cache
+D:\Group 7 - Final\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.exe
+D:\Group 7 - Final\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.pdb
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe.config
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Interop.TimelineAxLib.dll
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\AxInterop.TimelineAxLib.dll
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.ResolveComReference.cache
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.exe
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.pdb
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.exe
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Video cutting and Merging Tool.pdb
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.xml
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\Interop.TimelineAxLib.dll
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\bin\Debug\AxInterop.TimelineAxLib.dll
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csprojResolveAssemblyReference.cache
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishCut.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishMerge.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.EnglishSelect.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Language.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Properties.Resources.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaCut.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.SinhalaMerge.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.Sinhala_Select.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilCut.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilMerge.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video_cutting_and_Merging_Tool.TamilSelect.resources
+E:\Group 7\EasyVideoMaker\Video cutting and Merging Tool\Video cutting and Merging Tool\obj\Debug\Video cutting and Merging Tool.csproj.GenerateResource.Cache
